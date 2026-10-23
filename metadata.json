@@ -1,0 +1,6 @@
+{
+  "name": "OmniExplain Pro",
+  "description": "الموسوعة التفاعلية الذكية لشرح كيف يعمل أي شيء وكيف تصلح أي جهاز بالربط اللحظي مع iFixit وWikimedia ومحاكي ثلاثي الأبعاد وGemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OmniExplain Pro</string>
+    <string name="app_subtitle">الموسوعة التفاعلية الذكية</string>
+    <string name="search_placeholder">اسأل كيف يعمل أي شيء أو كيف تصلح أي جهاز (مثال: القلب، محرك نفاث، بطارية آيفون)...</string>
+    <string name="explain_now_btn">اشرح لي الآن ✨</string>
+    <string name="cat_repair">🔧 إصلاح وتفكيك أجهزة</string>
+    <string name="cat_medicine">🫀 طب وجسم الإنسان</string>
+    <string name="cat_mechanics">⚙️ ميكانيكا ومحركات</string>
+    <string name="cat_tech">📡 تكنولوجيا واتصالات</string>
+    <string name="mode_real_media">📷 صور وفيديو حقيقي</string>
+    <string name="mode_3d_sim">🧊 محاكي 3D</string>
+    <string name="mode_split_pip">⚡ عرض مدمج</string>
+    <string name="tool_xray">🩻 X-Ray</string>
+    <string name="tool_explode">🧩 تفكيك القطع</string>
+    <string name="tool_compare">🔍 مقارنة</string>
+    <string name="btn_next">⏭️ التالي</string>
+    <string name="btn_prev">⏮️ السابق</string>
+    <string name="btn_play">▶️ تشغيل</string>
+    <string name="btn_pause">⏸️ إيقاف</string>
+    <string name="btn_restart">🔄 إعادة</string>
+    <string name="btn_tts">🔊 نطق صوتي عربي متزامن</string>
+    <string name="btn_tts_stop">🔇 إيقاف النطق</string>
+    <string name="api_settings_title">إعدادات مفاتيح Gemini API</string>
+    <string name="voice_search_desc">بحث صوتي بالعربية</string>
+</resources>
